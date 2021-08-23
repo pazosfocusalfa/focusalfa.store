@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="43px" height="37px" viewBox="0 0 43 37" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 57.1 (83088) - https://sketch.com -->
+    <title>Group 1116</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Extra-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Icons" transform="translate(-781.000000, -89.000000)">
+            <g id="Group-1116" transform="translate(781.000000, 89.000000)">
+                <g id="Group-641" stroke="#7464E2" stroke-linejoin="round" stroke-width="0.9">
+                    <polygon id="Stroke-6577" points="6 0 7.5 5 12 5 8.5 7.5 10 12 6 9 2 12 3.5 7.5 0 5 4.5 5"></polygon>
+                    <polygon id="Stroke-6577-Copy" points="39.5 29 40.375 31.9166667 43 31.9166667 40.9583333 33.375 41.8333333 36 39.5 34.25 37.1666667 36 38.0416667 33.375 36 31.9166667 38.625 31.9166667"></polygon>
+                    <path d="M35.5117,19 C35.5117,25.353 30.3637,30.5 24.0117,30.5 C17.6597,30.5 12.5117,25.353 12.5117,19 C12.5117,12.649 17.6597,7.5 24.0117,7.5 C30.3637,7.5 35.5117,12.649 35.5117,19 L35.5117,19 Z" id="Stroke-6578" stroke-linecap="round"></path>
+                    <path d="M32.5117,19 C32.5117,23.694 28.7057,27.5 24.0117,27.5 C19.3177,27.5 15.5117,23.694 15.5117,19 C15.5117,14.307 19.3177,10.5 24.0117,10.5 C28.7057,10.5 32.5117,14.307 32.5117,19 L32.5117,19 Z" id="Stroke-6579" stroke-linecap="round"></path>
+                </g>
+                <text id="30" font-family="Gotham-Bold, Gotham" font-size="9" font-weight="bold" line-spacing="4" fill="#7464E2">
+                    <tspan x="17.9205" y="17">30</tspan>
+                    <tspan x="30.0795" y="17" font-size="5"></tspan>
+                </text>
+                <text id="DIAS" font-family="Gotham-Black, Gotham" font-size="3" font-weight="700" fill="#7464E2">
+                    <tspan x="20.6915" y="24">DIAS</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>
